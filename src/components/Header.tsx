@@ -13,7 +13,7 @@ export default function Header() {
             Flow POS
           </h2>
           <p className="text-sm text-gray-500">
-            Point of Sale System
+          Milk Tea Edition
           </p>
         </div>
   
