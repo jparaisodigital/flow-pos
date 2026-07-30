@@ -1,5 +1,4 @@
 import { useState } from "react";
-import { products } from "../features/pos/data/products";
 import ProductGrid from "../features/pos/components/ProductGrid";
 import Cart from "../features/pos/components/Cart";
 import Toast from "../components/Toast";

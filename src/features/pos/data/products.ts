@@ -1,4 +1,4 @@
-import type { Product, Category } from "../types";
+import type { Product } from "../types";
 
 export const products: Product[] = [
   // MILK TEA
